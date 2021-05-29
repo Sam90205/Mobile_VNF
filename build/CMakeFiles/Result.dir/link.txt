@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Result.dir/main.cpp.o CMakeFiles/Result.dir/MEC.cpp.o CMakeFiles/Result.dir/User.cpp.o CMakeFiles/Result.dir/VNF.cpp.o  -o Result 

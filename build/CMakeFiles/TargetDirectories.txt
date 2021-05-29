@@ -1,0 +1,3 @@
+/home/xinxian1201/Mobile_VNF/Mobile_VNF/build/CMakeFiles/rebuild_cache.dir
+/home/xinxian1201/Mobile_VNF/Mobile_VNF/build/CMakeFiles/Result.dir
+/home/xinxian1201/Mobile_VNF/Mobile_VNF/build/CMakeFiles/edit_cache.dir
